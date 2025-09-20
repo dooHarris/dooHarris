@@ -1,7 +1,34 @@
 ## Hi there 👋
 
+I'm Vijay Jaisankar, a Data Scientist at [Schneider Electric AI Hub](https://www.se.com/in/en/work/solutions/artificial-intelligence/hub.jsp). 
+I am an alumnus of [IIIT Bangalore](https://iiitb.ac.in).  
+I _love_ to learn new things, play a round of tennis, or talk about anything 😄  
+
+In my free time, I love [blogging](https://hundred-words-or-less.blogspot.com/), reading non-fiction books and watching documentaries. 
+
+## Current Roles  
+- Data Scientist, [Schneider Electric AI Hub](https://www.se.com/in/en/about-us/artificial-intelligence/hub.jsp)
+
+## Former Roles
+- Intern, [Schneider Electric AI Hub](https://www.se.com/in/en/about-us/artificial-intelligence/hub.jsp)
+- Intern, [Adobe Research](https://research.adobe.com/)
+- Developer, [E-Health Research Center, IIITB](https://ehrc.iiitb.ac.in/)
+- Machine Learning Intern, [ISIP](https://iiitb.ac.in)
+- Student Campus Ambassador, [Google](https://careers.google.com/students/)
+- Developer, [Zense](https://zense.co.in/)
+- Organiser, [TEDxIIITBangalore](https://linktr.ee/tedxiiitbangalore2021)
+- Editor, [8BIT Magazine](https://8bit.pythonanywhere.com/)
+- Teaching Assistant, [IIITB](https://www.iiitb.ac.in/)
+- Member, [Debate Society @ IIITB](https://www.iiitb.ac.in/committees-clubs/clubs/debate-club)
+- Organiser, [IIITB Summer of Code](https://linktr.ee/iiitbsoc)
+- Tech Lead, [GDSC-IIITB](https://gdsc.community.dev/international-institute-of-information-technology-iiit-bangalore/)
+- Mentor, [Major League Hacking](https://mlh.io/)
+- Member, [Hack club Hackerabad](https://hackerabad.hackclub.com/)
+
+
+
 <!--
-**dooHarris/dooHarris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**vijay-jaisankar/vijay-jaisankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +41,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About me
+
+- 🔭 I’m currently working on `PyTorch` and `Audio processing`
+- 🌱 I’m currently learning about Attention networks, Computational Creativity, and Few-shot learning.
+- 👯 I’m looking to collaborate on Machine Learning Projects, APIs, Open Source, and Audio projects.
+- 📫 How to reach me: 
+  - [Linkedin](https://www.linkedin.com/in/vijay-jaisankar/) 
+  - [Polywork](https://www.polywork.com/vijayjaisankar)
+  - [Email](mailto:vijayjaisankar.vj@gmail.com)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: If I start, I can't stop talking 😄
+
+
+
+  
+  
